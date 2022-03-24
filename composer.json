@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "sadi01\\irannationalcodevalidator\\": "src/"
+      "sadi01\\iranNationalCodeValidator\\": "src/"
     }
   }
 }
